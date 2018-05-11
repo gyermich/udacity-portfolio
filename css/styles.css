@@ -103,7 +103,6 @@ main {
 
 .featured-work-link {
     width: calc((100% - 20px) / 3);
-    float: left;
     margin-right: 10px;
     text-align: center;
 
